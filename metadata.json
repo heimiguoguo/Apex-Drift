@@ -1,0 +1,8 @@
+{
+  "name": "Remix Apex Drift - 极速巅峰 3D多人赛车",
+  "description": "极速巅峰3D赛车：包含精美3D赛道场景、真实物理漂移与氮气加速、实时多人对战联机对决、赛车个性化改装工坊与全球玩家实时排行榜。",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
